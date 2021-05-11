@@ -1,0 +1,59 @@
+.mainscreen_data{
+    margin-left: 82px;
+    margin-right: 90px;
+    display: flex;
+    
+}
+.data__table{
+    flex:1;
+    margin-top: 37.85px;
+;
+    
+}
+
+
+tr{
+    width:100%;
+    
+}
+tr:nth-child(even) {
+    background-color: #f8f9fa;
+   
+}
+    .table__detail{
+    color:#878787;
+    text-align: center;
+}
+td{
+    width: 250px;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+#_td{ display: flex;
+    width: 300px;
+    text-align: start;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.table__data{
+    align-items: center;
+    width: 1062.22px;
+    height: 10px;
+    left: 315.32px;
+}
+.table__data  img{
+    width: 34.61px;
+height: 28.61px;
+left: 333.45px;
+top: 473.29px;
+border-radius: 50%;
+margin-right: 20px;
+}
+.profit{
+    color: #00CA39;
+}
+.loss{
+    color: #E44067;
+}

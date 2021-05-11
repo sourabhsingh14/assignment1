@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90px;
+    width: 83vw;
+}
+
+.header h1{
+    margin-left: 82px;
+   font-weight: normal;
+   flex:0.9;
+}
+.header__button{
+    margin-right: 73px;
+    
+    display: flex;
+    flex: 0.1;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn__add{
+    width: 65px;
+background: #10CD45;
+border-radius: 4px;
+height: 35.5px;
+border: none;
+color: white;
+margin-right: 60px;
+}
+
+
+.btn__menu{
+    width: 65px;
+    height: 35.5px;
+ text-align: center;
+ font-weight: bold;
+border-radius: 4px;  
+background-color:  #EEF2F5;
+margin-right: 11.5px;
+border: none;
+}

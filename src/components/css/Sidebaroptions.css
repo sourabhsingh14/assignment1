@@ -1,0 +1,18 @@
+.sidebar__option{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 103px;
+    
+}
+
+.sidebar__option >svg{
+    margin-right: 15.25px;
+}
+
+span{
+    font-size: 14px;
+   
+}

@@ -1,0 +1,15 @@
+.sidebar__footer{
+
+    margin-top: 150px;
+}
+.sb__item{
+   margin-left: 30.14px;
+   display: flex;
+   align-items: center;
+   justify-content:flex-start;
+   margin-right: 103px;
+   font-size: 14px;
+}
+.sb__item >svg{
+    margin-right: 21.25px;
+}
